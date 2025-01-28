@@ -1,9 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-sachaai.com	TRUE	/	FALSE	1999999999	d5a86adf008a64080ee4d5e1df120d99	ef4t27tq78ktrqb25fc32car06
-en.wikipedia.org	TRUE	/	FALSE	1999999999	WMF-Last-Access	27-Jan-2025
-.wikipedia.org	TRUE	/	FALSE	1999999999	WMF-Last-Access-Global	27-Jan-2025
-.wikipedia.org	TRUE	/	FALSE	1999999999	GeoIP	DE:HE:Frankfurt_am_Main:50.09:8.68:v4
-en.wikipedia.org	TRUE	/	FALSE	1999999999	NetworkProbeLimit	0.001
-en.wikipedia.org	TRUE	/	FALSE	1999999999	SameSite	Lax
-
