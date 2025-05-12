@@ -1,0 +1,26 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+sachaai.com	TRUE	/	FALSE	1999999999	73fda4b231f8d67bc4d2ca0c24182306	dig22eiclhqsgkqhql3er16u4l
+en.wikipedia.org	TRUE	/	FALSE	1999999999	WMF-Last-Access	11-May-2025
+.wikipedia.org	TRUE	/	FALSE	1999999999	WMF-Last-Access-Global	11-May-2025
+.wikipedia.org	TRUE	/	FALSE	1999999999	GeoIP	DE:HE:Frankfurt_am_Main:50.08:8.64:v4
+en.wikipedia.org	TRUE	/	FALSE	1999999999	NetworkProbeLimit	0.001
+www.hoax-slayer.com	TRUE	/	FALSE	1999999999	ab_experiment_sampled	%22false%22
+www.hoax-slayer.com	TRUE	/	FALSE	1999999999	ab_testing_id	%225b4ecaf0-d0d3-40cd-b894-ed8c2503aeda%22
+.www.hoax-slayer.com	TRUE	/	FALSE	1999999999	__cf_bm	xcS2k.8pcoK7Z7Lo35fzQQyCd12H3JXZJc4ciQJuNe8-1746956469-1.0.1.1-etKEu_2Lb_ZihRPwtpheOpaOcy6OWLSLZwYpGNN.0Pp8xwQXMAhMsCCJvJGHtIa5J9S_TqEipDJB_JP1tnYlHpZ7.1Jk.wOTWaBI6gUlrRA
+www.hoax-slayer.com	TRUE	/	FALSE	1999999999	SameSite	None
+.netterimages.com	TRUE	/	FALSE	1999999999	__cf_bm	SoyijI5YgofAxpOeyQuAypN8onspH6aNiXL0Ysm7BYg-1746956470-1.0.1.1-_JY7ImTdd0KBqHD93VLDabADHwtNe4_ZEnpLeDm001joDMrhvarorsq6A47UF6lz.JMU.Ne0zxuA1HXVwpLQZqRnFwMsbP9g_fphYO.fLco
+www.netterimages.com	TRUE	/	FALSE	1999999999	SameSite	None
+en.m.wikipedia.org	TRUE	/	FALSE	1999999999	WMF-Last-Access	11-May-2025
+en.m.wikipedia.org	TRUE	/	FALSE	1999999999	NetworkProbeLimit	0.001
+en.m.wikipedia.org	TRUE	/	FALSE	1999999999	SameSite	None
+commons.wikimedia.org	TRUE	/	FALSE	1999999999	WMF-Last-Access	11-May-2025
+.wikimedia.org	TRUE	/	FALSE	1999999999	GeoIP	DE:HE:Frankfurt_am_Main:50.08:8.64:v4
+commons.wikimedia.org	TRUE	/	FALSE	1999999999	NetworkProbeLimit	0.001
+commons.wikimedia.org	TRUE	/	FALSE	1999999999	SameSite	None
+en.wikipedia.org	TRUE	/	FALSE	1999999999	CentralAuthAnonTopLevel	1
+en.wikipedia.org	TRUE	/	FALSE	1999999999	enwikiSession	u0deg7ud9la49ercqtek57311dvqoo8j
+en.wikipedia.org	TRUE	/	FALSE	1999999999	SameSite	None
+en.wikipedia.org	TRUE	/	FALSE	1999999999	WMF-DP	34f,b96,660,f7f,485,8e9,209,34d,064
+en.wikipedia.org	TRUE	/	FALSE	1999999999	include_pv	0
+
